@@ -19,7 +19,7 @@
 - 🎨 I care about **clean code**, **component‑driven architecture**, and **accessibility**. I also have a strong understanding of **UI/UX principles** and adapt designs from Figma to pixel‑perfect, responsive layouts.
 - 🌍 Worked on **ERP systems**, **EdTech platforms**, **AI‑powered recommendation engines**, and **P2P real‑time apps** (Firebase + WebRTC).
 - 💬 Fluent in **English (B2, Upper‑Intermediate)** and **Russian** (native). Ready for remote collaboration worldwide and **relocation**.
-- 🧠 Constantly learning: currently diving deeper into **Nuxt 3\4**.
+- 🧠 Constantly learning: currently diving deeper into **Nuxt 3\4** and **Phaser\PixiJS**.
 
 ---
 
